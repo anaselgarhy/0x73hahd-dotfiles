@@ -1,7 +1,4 @@
 # Shell Aliases
-
-# A
-alias ahmed='echo -e "\n He is my bf and I love him so much <3 \n"'
 # C
 alias ..='cd ..'
 # L
